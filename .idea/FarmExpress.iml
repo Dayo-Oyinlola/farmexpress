@@ -4,11 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="oausenate" />
-    <orderEntry type="module" module-name="club40" />
     <orderEntry type="module" module-name="datalight" />
-    <orderEntry type="module" module-name="brandi" />
     <orderEntry type="module" module-name="datalight" />
-    <orderEntry type="module" module-name="brandi" />
+    <orderEntry type="module" module-name="adedayo" />
   </component>
 </module>

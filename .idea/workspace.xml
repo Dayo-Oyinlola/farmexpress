@@ -2,10 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bde9bb3-a248-4755-a518-2c074ab619fe" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ui/locate_farm1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/locate_farm2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/locate_farm3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/locate_farm4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/produce_view4.html" afterDir="false" />
       <change beforePath="$USER_HOME$/PhpstormProjects/datasite/package-lock.json" beforeDir="false" afterPath="$USER_HOME$/PhpstormProjects/datasite/package-lock.json" afterDir="false" />
       <change beforePath="$USER_HOME$/PhpstormProjects/datasite/package.json" beforeDir="false" afterPath="$USER_HOME$/PhpstormProjects/datasite/package.json" afterDir="false" />
       <change beforePath="$USER_HOME$/PhpstormProjects/datasite/public/img/logo.png" beforeDir="false" afterPath="$USER_HOME$/PhpstormProjects/datasite/public/img/logo.png" afterDir="false" />
       <change beforePath="$USER_HOME$/PhpstormProjects/datasite/templates/views/index.hbs" beforeDir="false" afterPath="$USER_HOME$/PhpstormProjects/datasite/templates/views/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FarmExpress.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FarmExpress.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Ecommerce.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Ecommerce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ecommerce/js/minicart.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/ecommerce/js/minicart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.1elkej6wpb0g0.php" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.1elkej6wpb0g0.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.k94ir90lxe8c.php" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.k94ir90lxe8c.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/templates/header_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/templates/header_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/view_farms.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/view_farms.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +51,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui/locate_farm.html">
+        <entry file="file://$PROJECT_DIR$/config/routes.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="187">
+              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -47,17 +62,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/Ecommerce.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+            <state relative-caret-position="255">
+              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ui/checkout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="66" column="61" selection-start-line="66" selection-start-column="61" selection-end-line="66" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ui/checkout.html">
+        <entry file="file://$PROJECT_DIR$/assets/ecommerce/js/minicart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+            <state relative-caret-position="447">
+              <caret line="1912" column="23" lean-forward="true" selection-start-line="1912" selection-start-column="23" selection-end-line="1912" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,8 +95,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -103,24 +130,18 @@
       <find>item_name</find>
       <find>#exampleModalCenter3</find>
       <find>checkout</find>
+      <find>ppmini</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\ADEDAYO OYINLOLA\PhpstormProjects\oausenate\</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/PhpstormProjects/datasite" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ui/view_farms1.html" />
-        <option value="$PROJECT_DIR$/ui/view_farms2.html" />
-        <option value="$PROJECT_DIR$/app/views/Home.php" />
-        <option value="$PROJECT_DIR$/app/views/Ecommerce.php" />
-        <option value="$PROJECT_DIR$/config/routes.ini" />
-        <option value="$PROJECT_DIR$/ui/templates/footer1.html" />
-        <option value="$PROJECT_DIR$/ui/vegetables.html" />
         <option value="$PROJECT_DIR$/ui/fruits.html" />
         <option value="$PROJECT_DIR$/ui/fishery.html" />
         <option value="$PROJECT_DIR$/ui/tubers.html" />
@@ -146,17 +167,14 @@
         <option value="$USER_HOME$/PhpstormProjects/oausenate/templates/views/admin/manage_users.hbs" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/ui/users_reg.html" />
-        <option value="$PROJECT_DIR$/assets/ecommerce/js/minicart.js" />
         <option value="$PROJECT_DIR$/ui/produce_view.html" />
         <option value="$PROJECT_DIR$/ui/index_commerce.html" />
         <option value="$PROJECT_DIR$/ui/livestock.html" />
-        <option value="$PROJECT_DIR$/ui/view_farms.html" />
         <option value="$PROJECT_DIR$/ui/index.html" />
         <option value="$PROJECT_DIR$/../club40/ui/templates/footer.html" />
         <option value="$PROJECT_DIR$/ui/produce_view1.html" />
         <option value="$PROJECT_DIR$/ui/produce_view2.html" />
         <option value="$PROJECT_DIR$/ui/produce_view3.html" />
-        <option value="$PROJECT_DIR$/ui/templates/header_menu.html" />
         <option value="$PROJECT_DIR$/../club40/ui/templates/header_menu.html" />
         <option value="$PROJECT_DIR$/../club40/app/views/Home.php" />
         <option value="$USER_HOME$/PhpstormProjects/datasite/package.json" />
@@ -165,6 +183,16 @@
         <option value="$USER_HOME$/PhpstormProjects/datasite/templates/views/index.hbs" />
         <option value="$PROJECT_DIR$/ui/locate_farm.html" />
         <option value="$PROJECT_DIR$/ui/checkout.html" />
+        <option value="$PROJECT_DIR$/ui/produce_view4.html" />
+        <option value="$PROJECT_DIR$/config/routes.ini" />
+        <option value="$PROJECT_DIR$/ui/locate_farm1.html" />
+        <option value="$PROJECT_DIR$/ui/locate_farm2.html" />
+        <option value="$PROJECT_DIR$/ui/locate_farm3.html" />
+        <option value="$PROJECT_DIR$/ui/locate_farm4.html" />
+        <option value="$PROJECT_DIR$/app/views/Ecommerce.php" />
+        <option value="$PROJECT_DIR$/ui/view_farms.html" />
+        <option value="$PROJECT_DIR$/ui/templates/header_menu.html" />
+        <option value="$PROJECT_DIR$/assets/ecommerce/js/minicart.js" />
       </list>
     </option>
   </component>
@@ -196,8 +224,30 @@
             <path>
               <item name="FarmExpress" type="b2602c69:ProjectViewProjectNode" />
               <item name="FarmExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarmExpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarmExpress" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarmExpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarmExpress" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarmExpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarmExpress" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarmExpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarmExpress" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,7 +259,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.14.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../adedayo" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -285,11 +335,17 @@
       <workItem from="1549451448023" duration="13839000" />
       <workItem from="1549478810431" duration="202000" />
       <workItem from="1550576870362" duration="2977000" />
+      <workItem from="1550580279337" duration="2913000" />
+      <workItem from="1550704076958" duration="1059000" />
+      <workItem from="1550918300607" duration="581000" />
+      <workItem from="1550923518563" duration="4895000" />
+      <workItem from="1551095388937" duration="887000" />
+      <workItem from="1551102200874" duration="763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262825000" />
+    <option name="totallyTimeSpent" value="273923000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,10 +358,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5210728" side_tool="true" weight="0.1769341" />
       <window_info id="Favorites" order="1" sideWeight="0.54070663" side_tool="true" weight="0.15506808" />
-      <window_info active="true" content_ui="combo" x="2036" y="58" width="140" height="783" id="Project" maximized="true" order="2" sideWeight="0.4789272" visible="true" weight="0.16187595" />
+      <window_info active="true" content_ui="combo" x="2036" y="58" width="140" height="783" id="Project" maximized="true" order="2" sideWeight="0.4789272" visible="true" weight="0.1709531" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3276923" />
@@ -316,8 +373,8 @@
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3276923" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32307693" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3276923" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.32258064" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.32307693" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -339,23 +396,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/templates/views/portal/user/notifications.hbs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/templates/views/portal/user/mesasage.hbs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/keystone.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="54" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="29" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/routes/portal/message.js" />
-    <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/routes/portal/notifications.js" />
-    <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/templates/views/partials/pside2.hbs" />
-    <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/routes/portal/admin.js" />
     <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/routes/portal/universal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -476,16 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/ecommerce/js/minicart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="2176" column="95" lean-forward="true" selection-start-line="2176" selection-start-column="95" selection-end-line="2176" selection-end-column="95" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ui/vegetables.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -547,16 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui/view_farms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2176">
-          <caret line="128" column="56" selection-start-line="128" selection-start-column="56" selection-end-line="128" selection-end-column="56" />
-          <folding>
-            <element signature="n#style#0;n#a#1;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ui/produce_view1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1513">
@@ -567,24 +587,6 @@
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ui/produce_view3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="106" selection-start-line="65" selection-start-column="106" selection-end-line="65" selection-end-column="106" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ui/templates/header_menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -616,13 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ui/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="44" selection-start-line="3" selection-end-line="3" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -688,24 +683,120 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-488" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/produce_view3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="47" column="18" lean-forward="true" selection-end-line="154" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/produce_view4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="65" column="94" lean-forward="true" selection-start-line="65" selection-start-column="94" selection-end-line="65" selection-end-column="94" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/locate_farm1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/locate_farm2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/locate_farm3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ui/locate_farm.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/locate_farm4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/view_farms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="164" column="43" selection-start-line="164" selection-start-column="43" selection-end-line="164" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#a#1;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/templates/header_menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/Ecommerce.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        <state relative-caret-position="255">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ui/checkout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+        <state relative-caret-position="1122">
+          <caret line="66" column="61" selection-start-line="66" selection-start-column="61" selection-end-line="66" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/ecommerce/js/minicart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="1912" column="23" lean-forward="true" selection-start-line="1912" selection-start-column="23" selection-end-line="1912" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

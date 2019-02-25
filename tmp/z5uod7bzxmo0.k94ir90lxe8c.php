@@ -106,7 +106,7 @@
                     </div>
                 </div><br>
                 <p>Akinwale Farms</p><br>
-                <a href="<?= ($BASE) ?>/locate_farm" style="color: #2b542c"><button>Locate Farm</button></a>
+                <a href="<?= ($BASE) ?>/locate_farm1" style="color: #2b542c"><button>Locate Farm</button></a>
                 <a href="<?= ($BASE) ?>/produce_view1" style="color: #2b542c"><button>View produce</button></a>
             </div>
             <div class="col-md-3 w3_agileits_team_grid">
@@ -123,7 +123,7 @@
                     </div>
                 </div><br>
                 <p>Araromi Farms</p><br>
-                <a href="<?= ($BASE) ?>/locate_farm" style="color: #2b542c"><button>Locate Farm</button></a>
+                <a href="<?= ($BASE) ?>/locate_farm2" style="color: #2b542c"><button>Locate Farm</button></a>
                 <a href="<?= ($BASE) ?>/produce_view2" style="color: #2b542c"><button>View produce</button></a>
             </div>
             <div class="col-md-3 w3_agileits_team_grid">
@@ -140,10 +140,30 @@
                     </div>
                 </div><br>
                 <p>Adeife Farms</p><br>
-                <a href="<?= ($BASE) ?>/locate_farm" style="color: #2b542c"><button>Locate Farm</button></a>
+                <a href="<?= ($BASE) ?>/locate_farm3" style="color: #2b542c"><button>Locate Farm</button></a>
                 <a href="<?= ($BASE) ?>/produce_view3" style="color: #2b542c"><button>View produce</button></a>
             </div>
 
+        </div>
+
+    </div><br><br>
+    <div class="container">
+        <div class="col-md-3 w3_agileits_team_grid">
+            <div class="w3layouts_news_grid">
+                <img src="assets/images/poultry.jpg" alt=" " class="img-responsive" />
+                <div class="w3layouts_news_grid_pos">
+                    <div class="wthree_text agileinfo_about_text">
+                        <ul class="agileits_social_list">
+                            <li><a href="#" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                            <li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            <li><a href="#" class="w3_agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div><br>
+            <p>Abbanik Farms</p><br>
+            <a href="<?= ($BASE) ?>/locate_farm4" style="color: #2b542c"><button>Locate Farm</button></a>
+            <a href="<?= ($BASE) ?>/produce_view4" style="color: #2b542c"><button>View produce</button></a>
         </div>
     </div>
 </div>

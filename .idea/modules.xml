@@ -3,11 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/FarmExpress.iml" filepath="$PROJECT_DIR$/.idea/FarmExpress.iml" />
-      <module fileurl="file://$USER_HOME$/PhpstormProjects/datasite/.idea/brandi.iml" filepath="$USER_HOME$/PhpstormProjects/datasite/.idea/brandi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../adedayo/.idea/adedayo.iml" filepath="$PROJECT_DIR$/../adedayo/.idea/adedayo.iml" />
       <module fileurl="file://$USER_HOME$/PhpstormProjects/datalight/.idea/brandi.iml" filepath="$USER_HOME$/PhpstormProjects/datalight/.idea/brandi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../club40/.idea/club40.iml" filepath="$PROJECT_DIR$/../club40/.idea/club40.iml" />
       <module fileurl="file://$USER_HOME$/PhpstormProjects/datalight/.idea/datalight.iml" filepath="$USER_HOME$/PhpstormProjects/datalight/.idea/datalight.iml" />
-      <module fileurl="file://$USER_HOME$/PhpstormProjects/oausenate/.idea/oausenate.iml" filepath="$USER_HOME$/PhpstormProjects/oausenate/.idea/oausenate.iml" />
     </modules>
   </component>
 </project>

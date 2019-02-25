@@ -17,7 +17,7 @@
 								<li><a href="<?= ($BASE) ?>/farmers_reg">Farmer</a></li>
 							</ul>
 						</li>
-						<li><a href="<?= ($BASE) ?>/login">Sign in</a></li>
+						<!--<li><a href="<?= ($BASE) ?>/login">Sign in</a></li>-->
 					</ul>
 						</ul>
 						</nav>

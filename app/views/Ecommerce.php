@@ -68,6 +68,30 @@ class Ecommerce extends commerce
         $f3->set('footer', 'templates/footer1.html');
         $f3->set('content', 'locate_farm.html');
     }
+    function locate_farm1(Base $f3) {
+        $f3->set('pageTitle', 'Farm Express');
+        $f3->set('header_menu', 'templates/com_header_menu.html');
+        $f3->set('footer', 'templates/footer1.html');
+        $f3->set('content', 'locate_farm1.html');
+    }
+    function locate_farm2(Base $f3) {
+        $f3->set('pageTitle', 'Farm Express');
+        $f3->set('header_menu', 'templates/com_header_menu.html');
+        $f3->set('footer', 'templates/footer1.html');
+        $f3->set('content', 'locate_farm2.html');
+    }
+    function locate_farm3(Base $f3) {
+        $f3->set('pageTitle', 'Farm Express');
+        $f3->set('header_menu', 'templates/com_header_menu.html');
+        $f3->set('footer', 'templates/footer1.html');
+        $f3->set('content', 'locate_farm3.html');
+    }
+    function locate_farm4(Base $f3) {
+        $f3->set('pageTitle', 'Farm Express');
+        $f3->set('header_menu', 'templates/com_header_menu.html');
+        $f3->set('footer', 'templates/footer1.html');
+        $f3->set('content', 'locate_farm4.html');
+    }
     function produce_view(Base $f3) {
         $f3->set('pageTitle', 'Farm Express');
         $f3->set('header_menu', 'templates/com_header_menu.html');
@@ -91,6 +115,12 @@ class Ecommerce extends commerce
         $f3->set('header_menu', 'templates/com_header_menu.html');
         $f3->set('footer', 'templates/footer1.html');
         $f3->set('content', 'produce_view3.html');
+    }
+    function produce_view4(Base $f3) {
+        $f3->set('pageTitle', 'Farm Express');
+        $f3->set('header_menu', 'templates/com_header_menu.html');
+        $f3->set('footer', 'templates/footer1.html');
+        $f3->set('content', 'produce_view4.html');
     }
 
 
