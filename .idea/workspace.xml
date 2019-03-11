@@ -6,18 +6,6 @@
       <change beforePath="$USER_HOME$/PhpstormProjects/datasite/package.json" beforeDir="false" afterPath="$USER_HOME$/PhpstormProjects/datasite/package.json" afterDir="false" />
       <change beforePath="$USER_HOME$/PhpstormProjects/datasite/public/img/logo.png" beforeDir="false" afterPath="$USER_HOME$/PhpstormProjects/datasite/public/img/logo.png" afterDir="false" />
       <change beforePath="$USER_HOME$/PhpstormProjects/datasite/templates/views/index.hbs" beforeDir="false" afterPath="$USER_HOME$/PhpstormProjects/datasite/templates/views/index.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FarmExpress.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FarmExpress.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/ecommerce/js/minicart.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/ecommerce/js/minicart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_shoppe/js/minicart.js" beforeDir="false" afterPath="$PROJECT_DIR$/modern_shoppe/js/minicart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_shoppe/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/modern_shoppe/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.1dhsglxtv82ss.php" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.1dhsglxtv82ss.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.2fc7xusy6br4g.php" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.2fc7xusy6br4g.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.62k3tnzfk0kc.php" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.62k3tnzfk0kc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/produce_view.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/produce_view.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/templates/footer1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/templates/footer1.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -372,12 +360,12 @@
       <workItem from="1551869334047" duration="8794000" />
       <workItem from="1552294424250" duration="438000" />
       <workItem from="1552304154546" duration="144000" />
-      <workItem from="1552308337360" duration="7506000" />
+      <workItem from="1552308337360" duration="7754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="303184000" />
+    <option name="totallyTimeSpent" value="303432000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
