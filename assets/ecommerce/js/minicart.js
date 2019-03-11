@@ -1938,7 +1938,7 @@ var defaults = module.exports = {
 
     parent: (typeof document !== 'undefined') ? document.body : null,
 
-    action: 'payWithPaystack()',
+    action: 'checkout',
 
     target: '_blank',
 

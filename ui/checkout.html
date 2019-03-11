@@ -322,6 +322,7 @@ $(document).ready(function(){
 <!-- //here ends scrolling icon -->
 <script src="assets/ecommerce/js/minicart.js"></script>
 <script>
+    concole.log(items);
 		paypal.minicart.render(config);
 
 		paypal.minicart.cart.on('checkout', function (evt) {
@@ -329,6 +330,7 @@ $(document).ready(function(){
 				len = items.length,
 				total = 0,
 				i;
+
 
 			// Count the number of each item in the cart
 			for (i = 0; i < len; i++) {
