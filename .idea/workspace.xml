@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bde9bb3-a248-4755-a518-2c074ab619fe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ui/locate_farm1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/locate_farm2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/locate_farm3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/locate_farm4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/produce_view4.html" afterDir="false" />
       <change beforePath="$USER_HOME$/PhpstormProjects/datasite/package-lock.json" beforeDir="false" afterPath="$USER_HOME$/PhpstormProjects/datasite/package-lock.json" afterDir="false" />
       <change beforePath="$USER_HOME$/PhpstormProjects/datasite/package.json" beforeDir="false" afterPath="$USER_HOME$/PhpstormProjects/datasite/package.json" afterDir="false" />
       <change beforePath="$USER_HOME$/PhpstormProjects/datasite/public/img/logo.png" beforeDir="false" afterPath="$USER_HOME$/PhpstormProjects/datasite/public/img/logo.png" afterDir="false" />
@@ -14,13 +9,15 @@
       <change beforePath="$PROJECT_DIR$/.idea/FarmExpress.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FarmExpress.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/Ecommerce.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Ecommerce.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/ecommerce/js/minicart.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/ecommerce/js/minicart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.1elkej6wpb0g0.php" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.1elkej6wpb0g0.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.k94ir90lxe8c.php" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.k94ir90lxe8c.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/templates/header_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/templates/header_menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/view_farms.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/view_farms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modern_shoppe/js/minicart.js" beforeDir="false" afterPath="$PROJECT_DIR$/modern_shoppe/js/minicart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modern_shoppe/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/modern_shoppe/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.1dhsglxtv82ss.php" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.1dhsglxtv82ss.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.2fc7xusy6br4g.php" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.2fc7xusy6br4g.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.62k3tnzfk0kc.php" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/z5uod7bzxmo0.62k3tnzfk0kc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/produce_view.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/produce_view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/templates/footer1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/templates/footer1.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,28 +48,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/routes.ini">
+        <entry file="file://$PROJECT_DIR$/../adedayo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/Ecommerce.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui/checkout.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="66" column="61" selection-start-line="66" selection-start-column="61" selection-end-line="66" selection-end-column="61" />
+            <state relative-caret-position="153">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -80,11 +59,75 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/ecommerce/js/minicart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="1912" column="23" lean-forward="true" selection-start-line="1912" selection-start-column="23" selection-end-line="1912" selection-end-column="23" />
+            <state relative-caret-position="189">
+              <caret line="1940" column="32" lean-forward="true" selection-start-line="1940" selection-start-column="32" selection-end-line="1940" selection-end-column="32" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ui/produce_view.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="68" column="112" lean-forward="true" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="112" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ui/templates/footer1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ui/checkout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="156" column="62" lean-forward="true" selection-start-line="156" selection-start-column="62" selection-end-line="156" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ui/payment.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1653">
+              <caret line="180" column="62" lean-forward="true" selection-start-line="180" selection-start-column="62" selection-end-line="180" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../adedayo/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -102,12 +145,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>container</find>
-      <find>banner1</find>
-      <find>banner</find>
-      <find>w3_agileits_banner_main_grid</find>
-      <find>banner.jpg</find>
-      <find>background</find>
       <find>form-w3-agile-text1</find>
       <find>field-agileinfo-spc</find>
       <find>BASE</find>
@@ -116,12 +153,10 @@
       <find>Fortune Sunflower Oil</find>
       <find>PPMiniCart</find>
       <find>shy-menu-panel</find>
-      <find>form</find>
       <find>shy</find>
       <find>{{@BASE}}/</find>
       <find>{{@BASE}}</find>
       <find>checkout.html</find>
-      <find>action</find>
       <find>minicart-price</find>
       <find>purple</find>
       <find>cart.setting</find>
@@ -131,6 +166,15 @@
       <find>#exampleModalCenter3</find>
       <find>checkout</find>
       <find>ppmini</find>
+      <find>ppm</find>
+      <find>paypal.Buttons()</find>
+      <find>minicart-</find>
+      <find>cdnjs.cloudflare.com/ajax</find>
+      <find>paypal.minicart.render</find>
+      <find>paypal.minicart.render();</find>
+      <find>undefined</find>
+      <find>action</find>
+      <find>form</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\ADEDAYO OYINLOLA\PhpstormProjects\oausenate\</dir>
@@ -142,10 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ui/fruits.html" />
-        <option value="$PROJECT_DIR$/ui/fishery.html" />
-        <option value="$PROJECT_DIR$/ui/tubers.html" />
-        <option value="$PROJECT_DIR$/ui/grain.html" />
         <option value="$USER_HOME$/PhpstormProjects/oausenate/templates/views/partials/phead2.hbs" />
         <option value="$USER_HOME$/PhpstormProjects/oausenate/routes/portal/message.js" />
         <option value="$USER_HOME$/PhpstormProjects/oausenate/routes/portal/notifications.js" />
@@ -167,7 +207,6 @@
         <option value="$USER_HOME$/PhpstormProjects/oausenate/templates/views/admin/manage_users.hbs" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/ui/users_reg.html" />
-        <option value="$PROJECT_DIR$/ui/produce_view.html" />
         <option value="$PROJECT_DIR$/ui/index_commerce.html" />
         <option value="$PROJECT_DIR$/ui/livestock.html" />
         <option value="$PROJECT_DIR$/ui/index.html" />
@@ -182,7 +221,6 @@
         <option value="$PROJECT_DIR$/../club40/ui/index.html" />
         <option value="$USER_HOME$/PhpstormProjects/datasite/templates/views/index.hbs" />
         <option value="$PROJECT_DIR$/ui/locate_farm.html" />
-        <option value="$PROJECT_DIR$/ui/checkout.html" />
         <option value="$PROJECT_DIR$/ui/produce_view4.html" />
         <option value="$PROJECT_DIR$/config/routes.ini" />
         <option value="$PROJECT_DIR$/ui/locate_farm1.html" />
@@ -192,15 +230,21 @@
         <option value="$PROJECT_DIR$/app/views/Ecommerce.php" />
         <option value="$PROJECT_DIR$/ui/view_farms.html" />
         <option value="$PROJECT_DIR$/ui/templates/header_menu.html" />
+        <option value="$PROJECT_DIR$/../adedayo/index.html" />
+        <option value="$PROJECT_DIR$/ui/templates/footer1.html" />
+        <option value="$PROJECT_DIR$/modern_shoppe/js/minicart.js" />
+        <option value="$PROJECT_DIR$/modern_shoppe/login.html" />
+        <option value="$PROJECT_DIR$/ui/checkout.html" />
+        <option value="$PROJECT_DIR$/ui/produce_view.html" />
         <option value="$PROJECT_DIR$/assets/ecommerce/js/minicart.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="728" />
+    <option name="x" value="1484" />
+    <option name="y" value="91" />
+    <option name="width" value="1026" />
+    <option name="height" value="576" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -220,24 +264,6 @@
               <item name="FarmExpress" type="b2602c69:ProjectViewProjectNode" />
               <item name="FarmExpress" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FarmExpress" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FarmExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FarmExpress" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FarmExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FarmExpress" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FarmExpress" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FarmExpress" type="b2602c69:ProjectViewProjectNode" />
@@ -340,12 +366,18 @@
       <workItem from="1550918300607" duration="581000" />
       <workItem from="1550923518563" duration="4895000" />
       <workItem from="1551095388937" duration="887000" />
-      <workItem from="1551102200874" duration="763000" />
+      <workItem from="1551102200874" duration="2036000" />
+      <workItem from="1551269641221" duration="5336000" />
+      <workItem from="1551343853767" duration="5686000" />
+      <workItem from="1551869334047" duration="8794000" />
+      <workItem from="1552294424250" duration="438000" />
+      <workItem from="1552304154546" duration="144000" />
+      <workItem from="1552308337360" duration="7196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273923000" />
+    <option name="totallyTimeSpent" value="302874000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,15 +389,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="1358" y="-8" width="1456" height="916" extended-state="6" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5210728" side_tool="true" weight="0.1769341" />
       <window_info id="Favorites" order="1" sideWeight="0.54070663" side_tool="true" weight="0.15506808" />
-      <window_info active="true" content_ui="combo" x="2036" y="58" width="140" height="783" id="Project" maximized="true" order="2" sideWeight="0.4789272" visible="true" weight="0.1709531" />
+      <window_info content_ui="combo" x="2036" y="58" width="140" height="783" id="Project" maximized="true" order="2" sideWeight="0.4789272" visible="true" weight="0.1661891" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.3276923" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32736573" />
       <window_info anchor="bottom" id="Run" order="3" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
@@ -373,7 +404,7 @@
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3276923" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.32258064" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" visible="true" weight="0.31841433" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.32307693" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -396,48 +427,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/routes/portal/universal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/routes/portal/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/templates/views/partials/phead.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/templates/views/portal/user.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="432" column="27" selection-start-line="432" selection-start-column="27" selection-end-line="432" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/templates/views/layouts/portal.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="176" column="30" selection-start-line="176" selection-start-column="30" selection-end-line="176" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/PhpstormProjects/oausenate/routes/middleware.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
@@ -550,22 +539,6 @@
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ui/produce_view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="238" column="163" selection-end-line="371" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -776,24 +749,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui/checkout.html">
+    <entry file="file://$PROJECT_DIR$/modern_shoppe/js/minicart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="61" selection-start-line="66" selection-start-column="61" selection-end-line="66" selection-end-column="61" />
+        <state relative-caret-position="320">
+          <caret line="1905" column="26" selection-start-line="1905" selection-start-column="13" selection-end-line="1905" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modern_shoppe/products.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="811" column="33" lean-forward="true" selection-start-line="811" selection-start-column="33" selection-end-line="811" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../adedayo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/templates/footer1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../adedayo/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/checkout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="156" column="62" lean-forward="true" selection-start-line="156" selection-start-column="62" selection-end-line="156" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/payment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="180" column="62" lean-forward="true" selection-start-line="180" selection-start-column="62" selection-end-line="180" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/produce_view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="68" column="112" lean-forward="true" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="112" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/ecommerce/js/minicart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="1912" column="23" lean-forward="true" selection-start-line="1912" selection-start-column="23" selection-end-line="1912" selection-end-column="23" />
+        <state relative-caret-position="189">
+          <caret line="1940" column="32" lean-forward="true" selection-start-line="1940" selection-start-column="32" selection-end-line="1940" selection-end-column="32" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

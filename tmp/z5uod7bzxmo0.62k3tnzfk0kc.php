@@ -322,7 +322,7 @@ $(document).ready(function(){
 <!-- //here ends scrolling icon -->
 <script src="assets/ecommerce/js/minicart.js"></script>
 <script>
-		paypal.minicart.render();
+		paypal.minicart.render(config);
 
 		paypal.minicart.cart.on('checkout', function (evt) {
 			var items = this.items(),

@@ -6,10 +6,40 @@
 <body>
 <!-- header -->
 
-
+<script src="https://js.paystack.co/v1/inline.js"></script>
 <!-- top-brands -->
+<script>
+    function payWithPaystack(){
+        var handler = PaystackPop.setup({
+            key: 'pk_test_47bf1b5981e798fdb38108aee099206ab39805b9',
+            email: 'customer@email.com',
+            amount: 10000,
+            currency: "NGN",
+            ref: ''+Math.floor((Math.random() * 1000000000) + 1), // generates a pseudo-unique reference. Please replace with a reference you generated. Or remove the line entirely so our API will generate one for you
+            firstname: 'Stephen',
+            lastname: 'King',
+            // label: "Optional string that replaces customer email"
+            metadata: {
+                custom_fields: [
+                    {
+                        display_name: "Mobile Number",
+                        variable_name: "mobile_number",
+                        value: "+2348012345678"
+                    }
+                ]
+            },
+            callback: function(response){
+                alert('success. transaction ref is ' + response.reference);
+            },
+            onClose: function(){
+                alert('window closed');
+            }
+        });
+        handler.openIframe();
+    }
+</script>
 <div class="top-brands">
-    <div class="container">
+    <div class="container" id="paypal-button-container">
         <h3>Available produce</h3>
         <div class="agile_top_brands_grids">
             <div class="col-md-3 top_brand_left">
@@ -36,7 +66,7 @@
                                                 <input type="hidden" name="currency_code" value="NGN" />
                                                 <input type="hidden" name="return" value=" " />
                                                 <input type="hidden" name="cancel_return" value=" " />
-                                                <input type="submit" name="submit" value="Add to cart" class="button" />
+                                                <button type="button" onclick="payWithPaystack()"> Pay </button>
                                             </fieldset>
                                         </form>
                                     </div>
