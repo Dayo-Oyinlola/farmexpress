@@ -9,7 +9,7 @@ if ((float)PCRE_VERSION<7.9)
 
 // Load configuration
 $f3->config('config/config.ini');
-$f3->config('config/routes.ini');
+
 
 
 // MySql settings
