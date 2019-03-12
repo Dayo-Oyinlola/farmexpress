@@ -1,1 +1,2 @@
-vendor/bin/heroku-php-apache2 farmexpress/
+
+web: vendor/bin/heroku-php-apache2 farmexpress/
