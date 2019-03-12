@@ -9,7 +9,7 @@ if ((float)PCRE_VERSION<7.9)
 
 // Load configuration
 $f3->config('config/config.ini');
-$f3->config('config/routes.ini');
+$f3->routes('config/routes.ini');
 
 // MySql settings
 $db = $f3->set('DB', new DB\SQL(
@@ -17,5 +17,7 @@ $db = $f3->set('DB', new DB\SQL(
     $f3->get('DB_USER'),
     $f3->get('DB_PASSW')
 ));
+
+
 
 $f3->run();
