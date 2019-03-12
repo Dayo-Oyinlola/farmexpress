@@ -12,6 +12,7 @@ $f3->config('config/config.ini');
 $f3->config('config/routes.ini');
 
 
+
 // MySql settings
 $db = $f3->set('DB', new DB\SQL(
     'mysql:host=' . $f3->get('DB_SERVER') . ';port=3306;dbname=' . $f3->get('DB_NAME'),
